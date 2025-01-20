@@ -1,6 +1,6 @@
 # learn-git
 
-## This project is for learning git!
 
+adding line in the middle
 
 another line here
